@@ -14,9 +14,12 @@ MongoDB: Database for managing users and roles.
 JWT (jsonwebtoken): Secure token-based authentication.
 bcryptjs: Secure password hashing.
 Installation
-1 Clone the repository: git clone https://github.com/SONALI-PRJAPATI/SecureRBAC.gi cd role-based-access-control
+1 Clone the repository: git clone https://github.com/SONALI-PRJAPATI/RBAC-Project.gi cd role-based-access-control
 
-2 Install dependencies: npm install 3 Set up environment variables: Create a .env file in the root directory and add the following: PORT=4000 MONGODB_URL='mongodb://localhost:27017/RBCA' JWT_SECRETE='RBCA'
+2 Install dependencies: npm install 3 Set up environment variables: Create a .env file in the root directory and add the following: 
+PORT=4000
+MONGODB_URL=mongodb://localhost:27017/ytrole
+JWT_SECRETE=THIS IS SECRETE
 
 4 Start the development server: npm run dev
 
