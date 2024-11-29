@@ -18,12 +18,12 @@ A comprehensive Node.js application demonstrating secure **Admin** and **User** 
 
 ## Installation
 
-### 1. Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/SONALI-PRJAPATI/RBAC-Project
 cd role-based-access-control
 
-### 2. Install dependencies:
+2. Install dependencies:
 npm install
 
 3. Set up environment variables:
