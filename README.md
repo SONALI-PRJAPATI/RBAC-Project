@@ -1,4 +1,4 @@
-# Role-Based Access Control (RBAC) in Node.js
+# Role-Based Access Control (RBAC) 
 
 A comprehensive Node.js application demonstrating secure **Admin** and **User** Role-Based Access Control (RBAC) using **Express.js**. This project ensures that users have different levels of access based on their roles, enhancing the security and functionality of your application.
 
